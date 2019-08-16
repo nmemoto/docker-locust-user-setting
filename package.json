@@ -1,0 +1,26 @@
+{
+  "name": "docker-locust-user-setting",
+  "version": "0.0.1",
+  "description": "locust user setting with puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nmemoto/docker-locust-user-setting.git"
+  },
+  "keywords": [
+    "locust",
+    "puppeteer"
+  ],
+  "author": "nmemoto (takafumi.umemoto@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nmemoto/docker-locust-user-setting/issues"
+  },
+  "homepage": "https://github.com/nmemoto/docker-locust-user-setting#readme",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
